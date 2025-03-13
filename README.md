@@ -7,4 +7,9 @@ YourDress is an e-commerce application for adding and displaying clothing items.
 - Browse dresses without the need for login.
 - User authentication: Sign up, log in, and log out.
 - Add new dresses with images.
-- Advanced indexing: Sort dresses by first name, last name, or details.
+- Advanced indexing: Sort dresses by first name, last name, or details
+
+## 🛠️ Technologies Used
+- Flutter: Front-end framework for building the user interface.  
+- Firebase: Back-end service for authentication, database, and storage.  
+
