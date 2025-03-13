@@ -2,3 +2,9 @@
 ## About the Project
 YourDress is an e-commerce application for adding and displaying clothing items. The front-end is built using Flutter, while the back-end is powered by Firebase.
 
+
+## 🚀 Features
+- Browse dresses without the need for login.
+- User authentication: Sign up, log in, and log out.
+- Add new dresses with images.
+- Advanced indexing: Sort dresses by first name, last name, or details.
