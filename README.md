@@ -13,7 +13,7 @@ YourDress is an e-commerce application for adding and displaying clothing items.
 - Flutter: Front-end framework for building the user interface.  
 - Firebase: Back-end service for authentication, database, and storage.  
 
-## 1-Wellcome screen  
+## 1-Welcome Screen
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Welcome%20Screen.png)
 
 
@@ -36,7 +36,7 @@ YourDress is an e-commerce application for adding and displaying clothing items.
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Product%20Details%20Screen.png)
 
 
-## 6-Details Screen 
+## 6-Details Screen 2
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Contact%20Details%20Screen.png)
 
 
