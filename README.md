@@ -45,7 +45,6 @@ s
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Search%20%20Screen.png)
 
 
-## 2-Search Screen 
 
 
 
