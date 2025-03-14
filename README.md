@@ -65,5 +65,5 @@ s
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20%20Images%20Screen.png)
 
 ## 2-Add Item Screen
-https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Profile%20Screen.png
+![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Profile%20Screen.png)
 
