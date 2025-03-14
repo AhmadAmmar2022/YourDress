@@ -27,20 +27,20 @@ YourDress is an e-commerce application for adding and displaying clothing items.
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Login.png)
 
-## 2-Home Screen  
+## 4-Home Screen  
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Search%20Screen.png)
 
 
-## 2-Details Screen 
+## 5-Details Screen 
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Product%20Details%20Screen.png)
 
-s
-## 2-Details Screen 
+
+## 6-Details Screen 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Contact%20Details%20Screen.png)
 
 
-## 2-Search Screen 
+## 7-Search Screen 
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Search%20%20Screen.png)
 
@@ -51,19 +51,19 @@ s
 
 
 
-## 2-Add Item Screen
+## 8-Add Item Screen
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20Images%20Screen.png)
 
-## 2-Add Item Screen
+## 9-Add Item Screen
 
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20Images%20%20Screen.png)
 
-## 2-Add Item Screen
+## 10-Add Item Screen
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20%20Images%20Screen.png)
 
-## 2-Add Item Screen
+## 11-Add Item Screen
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Profile%20Screen.png)
 
