@@ -55,7 +55,7 @@ YourDress is an e-commerce application for adding and displaying clothing items.
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20Images%20%20Screen.png)
 
-## 10-Add Item Screen
+## 10-dd Item Details Screen
 
 ![App Interface](https://github.com/AhmadAmmar2022/YourDress/blob/master/Screenshots-YourDress/Add%20%20Images%20Screen.png)
 
